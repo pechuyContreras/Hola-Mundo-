@@ -14,3 +14,5 @@ Aqui pondre los requerimientos de mi calculadora financiera personal
 enlistaremos los usuarios en esta parte
 -jose
 -beto
+-maria
+-juan
