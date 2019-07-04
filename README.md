@@ -7,3 +7,6 @@ Aqui pondre los requerimientos de mi calculadora financiera personal
 -ingresos mensuales
 -graficar resultados
 -estoy agregando algo desde windows
+-tambien pondremos interfaz GUI
+-Agregaremos multiplataforma
+
