@@ -16,3 +16,7 @@ enlistaremos los usuarios en esta parte
 -beto
 -maria
 -juan
+
+-Menu Administradores
+-Pechuy Contreras
+-Beto Osorio
