@@ -10,3 +10,7 @@ Aqui pondre los requerimientos de mi calculadora financiera personal
 -tambien pondremos interfaz GUI
 -Agregaremos multiplataforma
 
+-Menu Usuarios
+enlistaremos los usuarios en esta parte
+-jose
+-beto
