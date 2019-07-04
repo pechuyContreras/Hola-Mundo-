@@ -6,3 +6,4 @@ Aqui pondre los requerimientos de mi calculadora financiera personal
 -gastos mensuales de credito
 -ingresos mensuales
 -graficar resultados
+-estoy agregando algo desde windows
