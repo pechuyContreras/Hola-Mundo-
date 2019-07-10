@@ -23,4 +23,9 @@ enlistaremos los usuarios en esta parte
 -Ana lilia Proyecto
 -otro admin
 -otro admin tambien
+<<<<<<< HEAD
 - seguimso probando esta cosa
+=======
+-aqui agreamos uno desde la web
+
+-Gannon the final user admin 
