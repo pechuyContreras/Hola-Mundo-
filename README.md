@@ -21,3 +21,5 @@ enlistaremos los usuarios en esta parte
 -Pechuy Contreras
 -Beto Osorio
 -Ana lilia Proyecto
+-otro admin
+-otro admin tambien
